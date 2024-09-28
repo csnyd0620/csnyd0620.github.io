@@ -5,39 +5,38 @@ body {
 	background-attachment: fixed;
 }
 
-h1, section {
-	font-style: bold;
-	background-color:rgba(236,236,236,.7);
+h1 {
 	text-align: center;
 	margin: 2px;
 	padding:5px;
+}
+
+h1, .main_content {
+	overflow: auto;
+	background-color:rgba(236,236,236,.7);	
 	outline-style:solid;
 	outline-color:black;
 	outline-width:5px;
+	padding-left:5px;
 }
 
-ul { 
-list-style-type: none;
-overflow:auto;
-margin: 6px;
-padding: 6px;
-text-align:center;
+div { 
+	overflow:hidden;
+	text-align: center;
+	font-size:30px;
+	padding:5px;
+	margin:5px;
 }
 
-li { 
-float: left;
-outline-style: solid;
-outline-color: black;
-outline-width: 3px;
-background-color:rgba(256,256,256,.7);
-background-size:center;
+div a {
+	outline-style: solid;
+	outline-color: black;
+	outline-width: 3px;
+	background-color:rgba(256,256,256,.7);
+	background-size: center;
+	margin:10px;
+	padding:5px;
 } 
-
-li a { 
-display: block;
-padding: 16px;
-color:#111111;
-}
 
 section {
 	background-color:rgba(236,236,236,.8);
