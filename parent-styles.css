@@ -47,7 +47,11 @@ section {
 	font-family: 'Verdana', Segoe UI, Tahoma, Geneva, sans-serif;
 }
 
+#cosplayPic {
+	size: small;
+}
+
 #picture_info {
-	text-align: center-right;
+	text-align: right;
 	font-size: 10px;
 }
