@@ -48,9 +48,13 @@ section {
 }
 
 img {
-	width:250px;
+	width:500px;
+	display:block;
+	margin-left:auto;
+	margin-right: auto;
 }
 
 #picture_info {
-	font-size: 10px;
+	text-align:center;
+	font-size: 14px;
 }
