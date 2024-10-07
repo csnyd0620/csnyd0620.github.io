@@ -1,0 +1,22 @@
+table {
+    display:table;
+}
+
+h4{
+    text-align:center;
+}
+
+#descript {
+    text-align:center;
+    font-size:16px;
+}
+
+td {
+    padding:5px;
+    border: 1px solid black;
+}
+
+img {
+    max-width:100%;
+}
+
