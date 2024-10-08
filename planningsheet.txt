@@ -1,1 +1,10 @@
-- idea: use php to standardize the navigation menu and call it in a script, maybe?
+Objective 1: 
+Use php to standardize the navigation menu and call it as a fucntion. 
+    I'm pretty sure you can do that, actually, i think we did it for ung. 
+
+    so as an example of what I'm thinking about : 
+        <h1>$pagename</h1> for each page 
+        $functionToDisplayNavBar - as the div part of the page, but only need to create it once, and then just call this function on every other page.
+        <section>Main section</section>
+
+    TODO: Dig through website code if i still have it to see if that's in there somewhere?
