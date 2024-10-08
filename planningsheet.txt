@@ -6,7 +6,9 @@ Use php to standardize the navigation menu and call it as a fucntion.
         <h1>$pagename</h1> for each page 
         $functionToDisplayNavBar - as the div part of the page, but only need to create it once, and then just call this function on every other page.
         <section>Main section</section>
+        $betaVersionDisclaimer - include the disclaimer as part of the standard header
+        <hr> - need to include this as standard part of header as well
 
-    TODO: Dig through website code if i still have it to see if that's in there somewhere?
+    TODO: Dig through website code if i still have it to see if that's in there somewhere. 
 
 Objective 2: Figure out why the About Me page is bothering me and adjust the layout/setup.
