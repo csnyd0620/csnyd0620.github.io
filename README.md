@@ -8,3 +8,6 @@ List of tasks to be done:
 1. Create standardized title header, navbar and beta disclaimer section of pages to be refernced with php. 
 2. Replace all current title headers, navbars, and beta disclaimes with function referncing the script written in step 1. 
 3. Use that page to create a standard template for any additional pages for ease of code. 
+
+
+TODO: Create a stylesheet specifically for projects sheet
