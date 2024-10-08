@@ -1,5 +1,5 @@
 body {
-	background-color:#4433CC;
+	background-color:#bdbdbd;
 	background-image:url("background_img.JPG");
 	background-size: cover;
 	background-attachment: fixed;
@@ -44,7 +44,7 @@ div a {
 
 .navBar {
 	padding:12px;
-	background-color:grey;
+	background-color:rgb(51, 65, 145);
 	outline:5px black solid;
 }
 
