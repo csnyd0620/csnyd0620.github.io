@@ -14,3 +14,5 @@ Use php to standardize the navigation menu and call it as a fucntion.
 Objective 2: Figure out why the About Me page is bothering me and adjust the layout/setup.
 
 Objective 3: Create stylesheet for projects page
+
+Test
