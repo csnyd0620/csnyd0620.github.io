@@ -11,3 +11,5 @@ List of tasks to be done:
 
 
 TODO: Create a stylesheet specifically for projects sheet
+
+TODO: Fork and convert all pages to .php, so that the PHP actually works. 
