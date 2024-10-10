@@ -6,15 +6,10 @@
 </head>
 <body>
     <h1>(Radio)Sonde Weather Observations Re-Drawn - SWORD</h1>
-    <div class="navBar">
-		<a href="index.html">Home</a>
-		<a href="aboutpage.html">About Me</a>
-		<a href="workspage.html">Work Experience</a>
-		<a href="projectpage.html">Project Examples</a>
-		<a href="weatherpage.html">And Now, The Weather!</a>
-		<a href="contactpage.html">Contact Me!</a>
-	</div>
-    <section class="main_content">
+    <?php 
+        include("navBarPage.php");
+        createNavBar();
+    ?>
         <h3>My pet project - a program to reinterprete and redesign the data from weather ballons!</h3>
         <hr>
         <h4>

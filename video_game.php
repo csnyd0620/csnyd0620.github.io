@@ -7,19 +7,10 @@
 </head>
 <body>
     <h1>Video Game for my Software Engineering Class</h1>
-    <!-- <?php 
+    <?php 
         include("navBarPage.php");
         createNavBar();
-    ?> -->
-    <div class="navBar">
-		<a href="index.html">Home</a>
-		<a href="aboutpage.html">About Me</a>
-		<a href="workspage.html">Work Experience</a>
-		<a href="projectpage.html">Project Examples</a>
-		<a href="weatherpage.html">And Now, The Weather!</a>
-		<a href="contactpage.html">Contact Me!</a>
-	</div>
-    <section class="main_content">
+    ?>
         <h3>First level - Proof for a future long-term goal of finishing the game</h3>
         <p>Placeholder text</p>
     <hr>
