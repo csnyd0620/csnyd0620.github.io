@@ -6,15 +6,10 @@
 </head>
 <body>
     <h1>PaintHorror - a Java program of terror!</h1>
-    <div class="navBar">
-		<a href="index.html">Home</a>
-		<a href="aboutpage.html">About Me</a>
-		<a href="workspage.html">Work Experience</a>
-		<a href="projectpage.html">Project Examples</a>
-		<a href="weatherpage.html">And Now, The Weather!</a>
-		<a href="contactpage.html">Contact Me!</a>
-	</div>
-    <section class="main_content">
+    <?php 
+        include("navBarPage.php");
+        createNavBar();
+    ?>
         <h3>A derivitive of a program a classmate and I made for a project in high school</h3>
         <p>Placeholder text</p>
     <hr>
