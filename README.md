@@ -11,5 +11,5 @@ List of tasks to be done:
 3. Use that page to create a standard template for any additional pages for ease of code. 
 
 * TODO: Create a stylesheet specifically for projects sheet
-~~* TODO: Fork and convert all pages to .php, so that the PHP actually works. Incorperate CodeIgniter framework - templates? ~~ 
+~~ * TODO: Fork and convert all pages to .php, so that the PHP actually works. Incorperate CodeIgniter framework - templates? ~~ 
     * Fork created, viewable in branch "main". Not viewable with GitHub pages, so will remain source code for now. 
