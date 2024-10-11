@@ -1,6 +1,6 @@
 .navBar {
-	padding-top:12px;
-    padding-bottom:12px;
+	padding-top:8px;
+    padding-bottom:8px;
 	background-color:rgb(51, 65, 145);
 	outline:3px black solid;
 	overflow:hidden;
@@ -16,7 +16,9 @@
 	display: inline-block;
 	margin-left:8px;
     margin-right:8px;
-	padding:5px;
+	margin-top:3px;
+	margin-bottom:5px;
+	padding:4px;
 	text-decoration:none;
 }
 
