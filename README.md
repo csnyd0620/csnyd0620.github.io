@@ -4,7 +4,12 @@ I will occasionally update it as I add projects and gain experience.
 
 ## As of 10/11/24, static site is made available again. To view the dynamic site code, please view the branch labeled "main". 
 
-### 10/8/27
+###5/26/26 
+Todo: 
+1. Update information on index, about, work and other relevant pages.
+2. Update site visuals to better represent current abilities.
+
+### 10/8/24
 List of tasks to be done:
 1. Create standardized title header, ~~navbar and beta disclaimer section~~ of pages to be refernced with php. 
 2. Replace all current title headers, ~~navbars, and beta disclaimeers~~ with function referncing the script written in step 1. 
